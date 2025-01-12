@@ -28,8 +28,10 @@ Welcome to my GitHub profile! I'm transitioning into the world of Artificial Int
 - **Tools:** MATLAB, LabVIEW, Cadence
 - **Version Control:** Git, GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudamr1205)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudamr1205&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudamr1205&layout=compact)
 ---
 
 ## 📈 **Projects**
