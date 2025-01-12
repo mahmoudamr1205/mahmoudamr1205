@@ -29,10 +29,13 @@ Welcome to my GitHub profile! I'm transitioning into the world of Artificial Int
 - **Version Control:** Git, GitHub
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudamr1205&show_icons=true)
+## 📊 **GitHub Stats**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudamr1205&layout=compact)
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudamr1205&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudamr1205&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
 
 ## 📈 **Projects**
 
